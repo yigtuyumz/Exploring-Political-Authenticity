@@ -1,0 +1,9 @@
+.vscode/
+.venv/
+__pycache__/
+*.so
+*.a
+*.out
+wheels/
+__pypackages__/
+*/__pycache__/

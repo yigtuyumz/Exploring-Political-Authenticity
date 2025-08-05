@@ -1,0 +1,9 @@
+[project]
+name = "Exploring Political Authenticity in Turkiye"
+version = "0.0.1"
+description = "Assisting an academic paper by conducting data scraping and analysis."
+authors = [{name = "Yigit Uyumaz", email = "yigtuyumz@gmail.com"}]
+maintainers = [{name = "Yigit Uyumaz", email = "yigtuyumz@gmail.com"}]
+readme = "README.md"
+requires-python = ">=3.13"
+
