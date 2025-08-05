@@ -1,4 +1,3 @@
-# src/config/dev_config.py
 import os
 from .base_config import BaseConfig
 
